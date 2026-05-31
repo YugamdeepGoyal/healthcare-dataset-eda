@@ -1,0 +1,49 @@
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# kagglehub cache
+.cache/
+# Raw dataset
+indian_diseases_dataset.csv
+
+# Processed outputs
+X.csv
+y.csv
+processed_df.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
