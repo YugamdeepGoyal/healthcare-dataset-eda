@@ -16,7 +16,7 @@ EDA and feature engineering.
 - **Rows:** 20,000 patients
 - **Diseases covered:** 32
 - **Time period:** 2018–2025
-- **Original columns:** 32 → **Final features (X):** 63 columns
+- **Original columns:** 32
 
 > The raw dataset is not included in this repository.  
 > It is downloaded automatically via `kagglehub` when you run the notebook.
